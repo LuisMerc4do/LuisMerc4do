@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LuisMerc4do
 - 👀 I’m interested in Aritificial Intelligence and .NET
-- 🌱 I’m currently doing a Bachelor of Software Engineering (AI) at Torrens Uni Australia
+- 🌱 I’m currently doing a Bachelor of Software Engineering (AI) at Torrens University Australia
 - 📫 How to reach me: https://www.linkedin.com/in/luis-merc4do/
 
 <!---
