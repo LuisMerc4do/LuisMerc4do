@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LuisMerc4do Full-Stack developer 
-- ✅ Portfolio: luismercadoportfolio.vercel.app
+- ✅ Portfolio: https://www.luismercado.tech/
 - 👀 I’m developing CoLearning. a learning app for low-resource people in Colombia. And an AI assistant for teachers and students ensuring a high level of education for everyone. 
 - 🌱 I’m currently doing a Bachelor of Software Engineering (AI) at Torrens University Australia
 - 📫 How to reach me: https://www.linkedin.com/in/luis-merc4do/
