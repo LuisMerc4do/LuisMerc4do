@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LuisMerc4do Full-Stack developer 
+- 👋 Hi, I’m @LuisMerc4do Software Engineer, Full-Stack developer and .Net Core Developer
 - ✅ Portfolio: https://www.luismercado.tech/
 - 👀 I’m developing CoLearning. a learning app for low-resource people in Colombia. And an AI assistant for teachers and students ensuring a high level of education for everyone. 
 - 🌱 I’m currently doing a Bachelor of Software Engineering (AI) at Torrens University Australia
