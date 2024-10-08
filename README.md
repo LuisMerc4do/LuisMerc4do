@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @LuisMerc4do Software Engineer, Full-Stack developer and Microsoft Azure Developer Associate<br>✅ Portfolio: https://www.luismercado.tech/<br>👀 I’m developing CoLearning. a learning app for underprivileged people in Colombia. And an AI assistant for teachers and students ensuring a high level of education for everyone.<br>🌱 I’m currently doing a Bachelor of Software Engineering (AI) at Torrens University Australia<br>📫 How to reach me: https://www.linkedin.com/in/luis-merc4do/
+👋 Hi, I’m @LuisMerc4do Software Engineer, .Net Full-Stack developer and Microsoft Azure Developer Associate<br>✅ Portfolio: https://www.luismercado.tech/<br>👀 I’m developing CoLearning. a learning app for underprivileged people in Colombia. And an AI assistant for teachers and students ensuring a high level of education for everyone.<br>🌱 I’m currently doing a Bachelor of Software Engineering (AI) at Torrens University Australia<br>📫 How to reach me: https://www.linkedin.com/in/luis-merc4do/
 
 
 ## 🌐 Socials:
